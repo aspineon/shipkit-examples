@@ -1,4 +1,4 @@
 shipkit {
-   gitHub.repository = "shipkit/shipkit-examples"
+   gitHub.repository = "mockito/shipkit-examples"
    gitHub.writeAuthToken = System.getenv("GH_WRITE_TOKEN")
 }
